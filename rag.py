@@ -39,7 +39,7 @@ with st.sidebar:
         st.rerun()
 
     st.divider()
-    st.caption("Dibuat untuk Tugas UAS Teknik Informatika")
+    
 
 # --- FUNGSI PEMROSESAN PDF (RAG) ---
 def process_pdf(file):
